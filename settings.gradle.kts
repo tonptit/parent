@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Parent"
 include(":app")
- 
+include(":ui-kit")
